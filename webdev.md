@@ -41,7 +41,7 @@ Here are some explanatory examples I made on [CodePen](https://codepen.io/).
 * [Playing with Selectors](https://codepen.io/nicholaszufelt/pen/JZgbZa): A quick example of using some different CSS selectors.
 * [Images](https://codepen.io/nicholaszufelt/pen/GGVvKv): Some basic concepts surrounding including images on your websites.
 * [Footers that Stay Down](https://codepen.io/nicholaszufelt/pen/VBbRGG): a surprisingly difficult problem.  Also solvable with flexboxes!
-* [Tansitions](https://codepen.io/nicholaszufelt/pen/bjbavx): Simple smooth animations using just CSS.
+* [Transitions](https://codepen.io/nicholaszufelt/pen/bjbavx): Simple smooth animations using just CSS.
 * [Hidden Content](https://codepen.io/nicholaszufelt/pen/XBKWjw): Showing and hiding content using JavaScript to create a menu that displays different content when the user clicks on buttons.
 * [Adding and Removing Dom Nodes](https://codepen.io/nicholaszufelt/pen/OwRWNb): It is crucial to understand how JavaScript can change the DOM (the Document Object Model, or the in-memory version of the website).
 
