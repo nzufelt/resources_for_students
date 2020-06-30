@@ -12,7 +12,7 @@ I think these activities/sites will get you quickly up and running in web develo
     * [HTML](https://learnxinyminutes.com/docs/html/)
     * [CSS](https://learnxinyminutes.com/docs/css/)
     * There's also [JavaScript](https://learnxinyminutes.com/docs/javascript/), but this one isn't as good as the above two...probably because it's such a _much_ larger concept.
-1. If at this point you're still feeling a bit confused on the basic ideas of HTML hierarchies and CSS Selectors, read through [this article](https://internetingishard.com/html-and-css/basic-web-pages/).  That website, _InternetingIsHard_, has lots of helpful articles, but they are quite verbose.  If you like their style, look through for some other content!
+1. If at this point you're still feeling a bit confused on the basic ideas of HTML hierarchies and CSS Selectors, read through [this article](https://www.internetingishard.com/html-and-css/).  That website, _InternetingIsHard_, has lots of helpful articles, but they are quite verbose.  If you like their style, look through for some other content!
 1. I think the [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) is a particularly important thing to understand.  It should help you understand whether you want to change _padding_ or _margin_.
 1. Now that you understand basic HTML and CSS, I would argue that understanding CSS flexbox will allow you to layout any design.  This is a three-part process:
     1. [This video](https://youtube.com/watch?v=4GaHn08BXQw) covers the basic concepts.  It's a bit dry (sorry!), but it does the job.
