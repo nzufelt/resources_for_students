@@ -5,4 +5,4 @@ These are resources that I've collected over time to help people learn concepts 
 Here you can find a list of resources about web development.
 
 ## [`git`](git.md)
-
+You can find out what is git an how to use it here!
