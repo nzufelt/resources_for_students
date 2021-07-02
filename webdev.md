@@ -12,7 +12,7 @@ I think these activities/sites will get you quickly up and running in web develo
     * [HTML](https://learnxinyminutes.com/docs/html/)
     * [CSS](https://learnxinyminutes.com/docs/css/)
     * There's also [JavaScript](https://learnxinyminutes.com/docs/javascript/), but this one isn't as good as the above two...probably because it's such a _much_ larger concept.
-1. If at this point you're still feeling a bit confused on the basic ideas of HTML hierarchies and CSS Selectors, read through [this article](https://internetingishard.com/html-and-css/basic-web-pages/).  That website, _InternetingIsHard_, has lots of helpful articles, but they are quite verbose.  If you like their style, look through for some other content!
+1. If at this point you're still feeling a bit confused on the basic ideas of HTML hierarchies and CSS Selectors, read through [this article](https://www.internetingishard.com/html-and-css/).  That website, _InternetingIsHard_, has lots of helpful articles, but they are quite verbose.  If you like their style, look through for some other content!
 1. I think the [CSS Box Model](https://www.w3schools.com/css/css_boxmodel.asp) is a particularly important thing to understand.  It should help you understand whether you want to change _padding_ or _margin_.
 1. Now that you understand basic HTML and CSS, I would argue that understanding CSS flexbox will allow you to layout any design.  This is a three-part process:
     1. [This video](https://youtube.com/watch?v=4GaHn08BXQw) covers the basic concepts.  It's a bit dry (sorry!), but it does the job.
@@ -41,7 +41,7 @@ Here are some explanatory examples I made on [CodePen](https://codepen.io/).
 * [Playing with Selectors](https://codepen.io/nicholaszufelt/pen/JZgbZa): A quick example of using some different CSS selectors.
 * [Images](https://codepen.io/nicholaszufelt/pen/GGVvKv): Some basic concepts surrounding including images on your websites.
 * [Footers that Stay Down](https://codepen.io/nicholaszufelt/pen/VBbRGG): a surprisingly difficult problem.  Also solvable with flexboxes!
-* [Tansitions](https://codepen.io/nicholaszufelt/pen/bjbavx): Simple smooth animations using just CSS.
+* [Transitions](https://codepen.io/nicholaszufelt/pen/bjbavx): Simple smooth animations using just CSS.
 * [Hidden Content](https://codepen.io/nicholaszufelt/pen/XBKWjw): Showing and hiding content using JavaScript to create a menu that displays different content when the user clicks on buttons.
 * [Adding and Removing Dom Nodes](https://codepen.io/nicholaszufelt/pen/OwRWNb): It is crucial to understand how JavaScript can change the DOM (the Document Object Model, or the in-memory version of the website).
 
