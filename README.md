@@ -4,3 +4,5 @@ These are resources that I've collected over time to help people learn concepts 
 ## [Web Development](webdev.md)
 
 ## [`git`](git.md)
+
+BLAH BLAH BLAH
