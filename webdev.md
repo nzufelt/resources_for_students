@@ -1,6 +1,29 @@
 # Web Development Resources
 These resources have been gathered to help get students up-to-speed on web development.
 
+## Nick's Webdev Crash Course
+0. [Introduction to Visual Hierarchies](https://www.loom.com/share/452842c71c5448fcb6a56dac9d68be15?t=0)
+
+Throughout the rest of the series, the [codepen that I'm working through](https://codepen.io/nicholaszufelt/pen/GRprZZZ) as I make these videos might be a helpful resource, as well.
+
+1. [HTML and CSS Intro](https://www.loom.com/share/ff9641b3786f4bab90bcc2dc74107f40?t=0)
+2. [Shaping some content](https://www.loom.com/share/16e4dd03dbaa425e965bf389b208ea80?t=0)
+3. [Links](https://www.loom.com/share/306bdb5b185a47d38a43b1dea96d9e8e)
+4. [The Box Model](https://www.loom.com/share/c2a45865868a48e6a6cb3af6f5e15ea6?t=0)
+5. **Web Design**. One challenge you're probably having throughout watching my above videos is a feeling of "yeah, okay, maybe I'm starting to understand how to do this, but I don't know what to do to make it look good!" What you're describing is the difference between web development (coding a website) and web design (caring about the user experience and making things visually appealing). The world of web design is vast and at times intractable to those who haven't messed around too much with it before. Here are a few resources to get you started — you don't necessarily have to work through all of them, but if you find yourself still frustrated with "but everything looks bad!" then you can return to these resources for more inspiration.
+    * [Web design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/): This website starts off with no CSS, and then slowly adds more, and with each revision makes things look dramatically better. I highly recommend a full read.
+    * [Design for non-designers](https://medium.com/hello-web-design/design-for-non-designers-part-1-6559ed93ff91): This blog post covers some basic ideas, again iterating on a design (but this time it's not the whole page
+    * [RefactoringUI](https://www.youtube.com/watch?v=S6-q5BheEYU): This youtube channel takes submissions of websites and the narrator redesigns them real-time. It's incredible to watch him work, and you might learn a thing or two along the way.
+    * [Bootstrap](https://getbootstrap.com/): Another reasonable option for beginners is to use a Framework like Bootstrap. This has a little bit of a learning curve, but the basic idea is you add a bunch of CSS classes to your code, tell bootstrap to run on your website, and Poof! Everything looks pretty darn good. Different CSS frameworks are more or less opinionated, as in they lock you into more or less rigid designs, but they all look good enough for a basic website.
+6. [Flexbox](https://www.loom.com/share/68a158f8fa944629bea9d35aad000fc6?t=0), with extra resources mentioned in the video:
+    * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+    * [Flexbox Froggy](https://flexboxfroggy.com/): A fun game to learn flexbox!
+    * [My Flexbox Codepen](https://codepen.io/nicholaszufelt/pen/VwvPdEa)
+    * [Material Design Shadows](https://codepen.io/sdthornton/pen/wBZdXq): a useful resource for making attractive box-shadows
+
+
+---
+# OLD 
 ## Main Learning Tools
 Each of these websites can answer nearly any web development question you have.  They both have very long tutorials which move quite slowly through the basic concepts.  I recommend clicking around for a few minutes on each site, and then treating them as a definitive reference after you learn the basics.
 * [Mozilla Developer's Network (MDN)](https://developer.mozilla.org/en-US/docs/Learn)
